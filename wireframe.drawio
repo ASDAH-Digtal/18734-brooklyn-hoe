@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T01:40:47.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vrYInkR1ub7Z6Z4saq0c" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T04:40:29.263Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="MVq55AXWT-2Pxry25HrK" version="14.6.13" type="github">
   <diagram id="K8sE7QxHrUB8QWkYRPJ0" name="Page-1">
-    <mxGraphModel dx="1673" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2297" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iVqao9NhU7qHYT6IuISl-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-200" width="1500" height="2030" as="geometry" />
+          <mxGeometry x="-100" y="-830" width="1500" height="830" as="geometry" />
         </mxCell>
         <mxCell id="iVqao9NhU7qHYT6IuISl-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -13,20 +13,20 @@
         <mxCell id="iVqao9NhU7qHYT6IuISl-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iVqao9NhU7qHYT6IuISl-5" value="&lt;font style=&quot;font-size: 72px&quot;&gt;one piece&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
-          <mxGeometry x="70" y="170" width="1390" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iVqao9NhU7qHYT6IuISl-6" value="&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg&quot; alt=&quot;One Piece, Volume 61 Cover (Japanese).jpg&quot;&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66FFFF;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
-          <mxGeometry x="70" y="250" width="390" height="390" as="geometry" />
-        </mxCell>
         <mxCell id="iVqao9NhU7qHYT6IuISl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
           <mxGeometry x="480" y="250" width="980" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="pK_Dfuo4M3uwtithsgCP-3" value="&lt;span style=&quot;font-size: 20px&quot;&gt;One piece is an Japanese&amp;nbsp;animation series&amp;nbsp;that has 973 episodes and is still continuing&amp;nbsp;until 2024. The storyline was of a boy named &quot;Luffy&quot; who was on a quest to become the king of the pirates. he gathered a crew of ten and aimed for the very top. they have the adventure and they go to different&amp;nbsp;islands until the grand line.&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
+        <mxCell id="pK_Dfuo4M3uwtithsgCP-3" value="&lt;span style=&quot;font-size: 20px&quot;&gt;One piece is an Japanese&amp;nbsp;animation series&amp;nbsp;that has 973 episodes and is still continuing&amp;nbsp;until 2024. The story starts of with a boy ,&lt;font color=&quot;#66ffff&quot;&gt;Monkey D Luffy&lt;/font&gt;, who is a rubber man who sets out to become a pirate. He gathers a crew, &lt;font color=&quot;#33ffff&quot;&gt;Straw hat pirates&lt;/font&gt;, and set out to become the king of the pirates.&amp;nbsp;This anime was made on the 20th october 1999 when it was&amp;nbsp; filmed on fuji television. Some company&#39;s have made merchantandisies like card games, shirts etc.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
           <mxGeometry x="535" y="295" width="870" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="JeWfxyr8rnKe8wjK0Hx8-1" value="FF0000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iVqao9NhU7qHYT6IuISl-1">
+        <mxCell id="JeWfxyr8rnKe8wjK0Hx8-1" value="FF0000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
           <mxGeometry x="930" y="540" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iVqao9NhU7qHYT6IuISl-5" value="&lt;font style=&quot;font-size: 72px&quot;&gt;one piece&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
+          <mxGeometry x="70" y="160" width="1390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iVqao9NhU7qHYT6IuISl-6" value="&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg&quot; alt=&quot;One Piece, Volume 61 Cover (Japanese).jpg&quot;&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66FFFF;" parent="iVqao9NhU7qHYT6IuISl-1" vertex="1">
+          <mxGeometry x="70" y="250" width="390" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
