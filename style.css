@@ -21,14 +21,13 @@ Date:
     "footer footer footer";
 }
 
-.container > div{ /*DO NOT REMOVE*/
-    padding: 10px;
-}
+
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
-    background-color: var(--main-bg-colour);
+    background-color: #3333FF;
     color: var(--main-colour);
+    text-align: center;
 }
 
 .main{ /*DO NOT REMOVE*/
@@ -39,28 +38,42 @@ Date:
 
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
-    background-color: var(--main-colour);
+    background-color: #3333ff;
+    text-align: center;
+    padding: 30px;
 }
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
-    background-color: var(--main-colour);
+    background-color: #3333ff;
+    text-align: center;
+    padding: 50px;
 }
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
+    background-color: #FF0000;
+    padding: 80px;
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
+    background-color: #FF0000;
+    text-align: center;
+    padding: 30px;
+    
 }
 
 .videoSection{ /*DO NOT REMOVE*/
+    background-color: #3333ff;
     grid-area: videoSection;
+    padding: 30px;
 }
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
-    background-color: var(--main-bg-colour);
+    background-color: #FF0000;
     color: var(--main-colour);
+    text-align: center;
+    padding: 30px;
 }

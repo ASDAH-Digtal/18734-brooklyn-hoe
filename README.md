@@ -2,28 +2,28 @@
 # 18734
 ## Create a web page using a template (Level 1 Unit Standard)
 
-Name: 
+Name: brooklyn hoeflich
 
-Date: 
+Date: 1/06/2021
 
-Homeroom: 
+Homeroom: 10VV
 
-Teacher: 
+Teacher: Mr Malaitai
 
 # Instructions:
 
 ## Complete the following:
 1. What is the purpose of the web page?
 
-*INSERT ANSWER HERE*
+*to tell people more about One piece*
 
 2. Who is the target audience of the web page?
 
-*INSERT ANSWER HERE*
+*Anime fans*
 
 3. What resources (e.g. images, videos etc) will you need to create your web page? 
 
-*INSERT ANSWER HERE*
+**
 
 4. Create a conceptual design of the web page and upload it to your repository.
 
